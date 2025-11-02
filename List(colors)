@@ -1,0 +1,5 @@
+List<String> colors = new List<String>();
+colors.add('red');
+colors.add('green');
+colors.add('blue');
+System.debug(colors);
