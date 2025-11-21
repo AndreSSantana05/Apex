@@ -1,0 +1,5 @@
+Map <String, String> numbers = new Map <String, String>();
+numbers.put('1','one');
+numbers.put('2','two');
+numbers.put('3', 'three');
+System.debug(numbers);
