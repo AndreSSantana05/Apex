@@ -1,0 +1,7 @@
+Set<String> animals = new Set<String>();
+animals.add('cat');
+animals.add('lion');
+animals.add('dog');
+animals.add('lion');
+animals.add('fish');
+System.debug(animals);
