@@ -1,0 +1,5 @@
+Set<String> cities = new Set<String>();
+cities.add('Camaçari');
+cities.add('Salvador');
+cities.add('São Paulo');
+System.debug(cities);
