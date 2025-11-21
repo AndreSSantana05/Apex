@@ -1,0 +1,6 @@
+Map<String, String> names = new Map<String, String>();
+names.put('A', 'André');
+names.put('B', 'Bianca');
+names.put('B', 'Brenda');
+names.put('C', 'Carlos');
+System.debug(names);
